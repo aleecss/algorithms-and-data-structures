@@ -1,5 +1,5 @@
 /**
-Given a permutation {p[1], p[2] ... p[n]} of the set {1, 2, 3 ... n}, find for all i (1 <= i <= n), the number of indices (j), that respect the following conditions:
+Given a permutation {p[1], p[2] ... p[n]} of the set {1, 2, 3 ... n}, find for all i (1 <= i <= n) the number of indices (j), that respect the following conditions:
 -> 1 <= j < i
 -> p[j] < p[i]
 
