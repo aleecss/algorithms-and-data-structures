@@ -90,5 +90,3 @@ int main() {
 
     return 0;
 }
-
-/// Complexity: O(N + Q * sqrt N).
